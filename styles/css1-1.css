@@ -1,0 +1,24 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+
+#firstDiv {
+    color: red;
+    font-size: 32px;
+    margin-left: 32;
+    margin-top: 137;
+}
+h1 {
+    text-align: center;
+    color: blueviolet;
+    margin-left: 653px;
+    margin-right: 653px;
+    margin-top: 24;
+}
+
+#h1 {
+
+}
