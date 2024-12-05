@@ -4,21 +4,70 @@
     box-sizing: border-box;
 }
 
-
-#firstDiv {
-    color: red;
-    font-size: 32px;
-    margin-left: 32;
-    margin-top: 137;
-}
 h1 {
     text-align: center;
     color: blueviolet;
-    margin-left: 653px;
-    margin-right: 653px;
-    margin-top: 24;
+    text-align: center;
 }
 
-#h1 {
+#FirstContainer {
+    color: #FF0000;
+    background-color: #FFE8E8;
+    font-size: 32px;
+    padding: 24px 40px;
+    margin-top: 29px;
+    margin-left: 32px;
+    max-width: 565px;
+    max-height: 86px;
+    
+}
 
+#TakingAdvanture {
+    font-size: 40px;
+    color: #85647B;
+    padding: 24px 40px;
+    margin-top: 32px;
+    margin-left: 32px;
+    margin-bottom: 44px;
+    max-width: 1023px;
+    max-height: 144px;
+    border-top: 2px solid #00C76E;
+    border-left: 4px solid #C11574;
+    border-right: 6px solid #0055FF;
+    border-bottom: 2px solid #7F56D9;
+}
+
+#SpecialOffer {
+    font-size: 32px;
+    color: #85647B;
+    background-color: #FFE8E8;
+    padding: 24px 40px;
+    margin-top: 44px;
+    margin-bottom: 36px;
+    margin-left: 32px;
+    max-width: 1023px;
+    max-height: 133px;
+}
+
+span {
+    color: #FF4405;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+#LastChance {
+    font-size: 32px;
+    color: #0064CE;
+    padding: 24px 40px;
+    border: 2px solid #3538CD;
+    margin-top: 36px;
+    margin-left: 32px;
+    margin-bottom: 76px;
+    max-width: 1069px;
+    max-height: 86px;
+}
+
+img {
+    margin-top: 76px;
+    margin-left: 32px;
 }
